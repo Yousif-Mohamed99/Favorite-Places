@@ -1,16 +1,18 @@
-# favorite_places
+# Favorite Places – A Flutter-based Mobile App
+Favorite Places is a cross-platform mobile application built with Flutter and Dart, allowing users to save and manage their favorite locations with custom images and details. This project demonstrates proficiency in mobile development, state management, and integration of native device features.
 
-A new Flutter project.
+## Features
+- **Location Selection**: Choose a place manually via Google Maps or retrieve your current location using device GPS.
+- **Image Integration**: Capture or select photos for each place using the `image_picker` package (camera support).
+- **Local Storage**: Persist place data (coordinates and images) offline using `sqflite` for reliable access.
+- **State Management**: Real-time UI updates for adding, editing, or viewing places, powered by Riverpod.
 
-## Getting Started
+## Tech Stack
+- **Frontend**: Flutter, Dart
+- **State Management**: Riverpod
+- **APIs & Plugins**: Google Maps, `image_picker`, `sqflite`
+- **Storage**: Local SQLite database
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Deliverables
+- APK Link: https://drive.google.com/file/d/1ytiPQJ3PbgANXUMjgLsiIrK43VKScUrV/view?usp=share_link
+- Source code fully documented in this repository
