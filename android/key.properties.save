@@ -1,0 +1,6 @@
+storePassword=123456
+keyPassword=123456
+
+keyAlias=my-key-alias
+storeFile=/absolute/path/to/keystore.jks
+
