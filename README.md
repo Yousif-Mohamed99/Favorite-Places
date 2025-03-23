@@ -14,5 +14,5 @@ Favorite Places is a cross-platform mobile application built with Flutter and Da
 - **Storage**: Local SQLite database
 
 ## Deliverables
-- AAPK Demo: https://drive.google.com/drive/folders/11xS20OckOJqrIxPQfRmEfPqytg_f2ECi?usp=share_link
+- APK Demo: https://drive.google.com/drive/folders/11xS20OckOJqrIxPQfRmEfPqytg_f2ECi?usp=share_link
 - Source code fully documented in this repository
